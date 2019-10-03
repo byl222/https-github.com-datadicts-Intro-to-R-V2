@@ -1,5 +1,5 @@
-# R script to accompany Intro to R
-# Bryan Lu
+# R script to accopany Intro to R
+# Copy for RStudent 2019
 ######################################################
 
 # Assignment Examples
